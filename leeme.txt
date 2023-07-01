@@ -1,0 +1,12 @@
+Importante: 
+0.- en nombre la carpeta la llamas pos
+1.- Activar la extesión GD en PHP:INI para los reportes PDF.
+2.- Configurar y Agregar Nombre de la Impresora en el metodo impresion_directa
+3.- Correo: alejandrocj2002@gmail.com
+4.- Clave: admin
+5.- Es muy importante limpiar tu localStorage si anteriormente agregaste otros productos al carrito.
+6.- Para el reseteo de password es muy importante agregar los datos en la parte config
+		Agregar HOST_SMTP:
+		Agregar USER_SMTP:
+		Agregar CLAVE_SMTP: crear una clave en el correo que se esta utilizando
+		Agregar PUERTO_SMTP:
